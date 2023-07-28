@@ -8,7 +8,6 @@ import lombok.NoArgsConstructor;
 
 
 @Builder
-@Data
 @NoArgsConstructor
 @AllArgsConstructor
 @Entity
